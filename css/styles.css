@@ -152,6 +152,7 @@ p {
 .bottom-d {
   background-color: hsla(0, 0%, 0%, 0.7);
   position: relative;
+  width: 1000px;
   height: 266px;
   bottom: 240px;
 }
